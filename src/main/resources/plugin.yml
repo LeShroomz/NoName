@@ -1,0 +1,6 @@
+name: NoName
+version: '${project.version}'
+main: dev.trxixxie.noname.Noname
+api-version: 1.18
+authors: [ Trixxie ]
+description: Hide player name tags
